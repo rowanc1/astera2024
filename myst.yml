@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0bf2b25f-8a39-4756-8af6-7ae0e62ff02d
+  title: Upgrading Scientific Dialogue
+  subtitle: Astera Cover Letter for Entrepreneur-in-Residence Program
+  description:
+  keywords:
+    - grant
+    - accelerating science
+  authors:
+    - name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+  github: https://github.com/rowanc1/astera2024
+  abbreviations:
+    EIR: Entrepreneur in Residence
+    MyST: Markedly Structured Text
+  banner: banner.png
+  date: 2024-03-25
+  subject: Cover Letter
+  open_access: true
+  license: CC-BY-4.0
+  venue:
+    title: Astera
+    url: https://astera.org
+site:
+  template: article-theme
