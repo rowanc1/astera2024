@@ -16,6 +16,7 @@ project:
     EIR: Entrepreneur in Residence
     MyST: Markedly Structured Text
   banner: banner.png
+  thumbnail: thumbnail.png
   date: 2024-03-25
   subject: Cover Letter
   open_access: true
