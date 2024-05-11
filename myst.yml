@@ -4,13 +4,14 @@ project:
   id: 0bf2b25f-8a39-4756-8af6-7ae0e62ff02d
   title: Upgrading Scientific Dialogue
   subtitle: Astera Cover Letter for Entrepreneur-in-Residence Program
-  description:
+  description: Science requires new mediums to compose ideas and ways to share research findings as early and as often as possible. For the last five years I have been working on aspects of these problems to improve authoring and publishing tools for individual researchers as well as scientific societies and institutions.
   keywords:
     - grant
     - accelerating science
   authors:
     - name: Rowan Cockett
       orcid: 0000-0002-7859-8394
+      email: rowan@curvenote.com
   github: https://github.com/rowanc1/astera2024
   abbreviations:
     EIR: Entrepreneur in Residence
